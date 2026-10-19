@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdoNetLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292692004ec7ca43bcd2a46dc0dff16e177c463b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e844ca8bfa7a48e26068f87c6c6e0f66fa66ca82")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdoNetLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdoNetLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
